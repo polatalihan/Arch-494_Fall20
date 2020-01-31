@@ -1,11 +1,11 @@
 # Arch-494_Fall20
 Repository for Arch 292/494 Course 
 # Syllabus  
-Instructor: (Soydan) Alihan Polat
-Email: spolat@sandiego.edu 
-Schedule: Thursdays, 5:30pm-8:20pm
-Classroom: Camino Hall P5
-Office Hours: Thursdays 4:00-5:20pm (by appointment)
+# Instructor: (Soydan) Alihan Polat
+# Email: spolat@sandiego.edu 
+# Schedule: Thursdays, 5:30pm-8:20pm
+# Classroom: Camino Hall P5
+# Office Hours: Thursdays 4:00-5:20pm (by appointment)
 # < What >
 This course will investigate urban data & spatial relationships and how they affect multiple subject areas, from the way how cities shape to how their inhabitants behave. Our cities are functioning mechanisms with a series of systems. The objective of the course is to identify and deep-dive into these systems, use “open-data” platform and gather data to understand the realm of “urban”. How does “food deserts” form in urban areas, why can’t we build more “affordable housing”, can we predict and track “gentrification”? By using GIS tools and software, students will develop mapping projects and learn to gather, analyze and visualize data on existing relations between the social and spatial.
 # < Why >
@@ -130,7 +130,7 @@ Final Project Workshops
 
 Final Review 			TBD (December 15-21)
 
-< Reading Materials >
+# < Reading Materials >
 
 1)	GIS and Urban Design
 a)	Intro to GIS (Think Globally, Act Regionally / Chapter 2) 
@@ -173,7 +173,7 @@ a)	Singleton, Alex & Spielma, Seth & Folch, David “Generative Urban Systems”
 b)	Singleton, Alex & Spielma, Seth & Folch, David “Cities as Networks and Flows” in Urban Analytics. London: Sage Publications, 2018   
 c)	Monmonier, Mark “Data Maps: A Thicket of Thorny Choices” in How to Lie with Maps. Chicago: University of Chicago Press, 2018   
 
-< Software >
+# < Software >
  
 ArcGIS Desktop (Windows Only) 
 ArcGIS Online
@@ -186,7 +186,7 @@ Microsoft Excel
 GitHub
 ArcPy 
 
-< Course Resources >
+# < Course Resources >
 Esri Online Training 
 These are essential training modules for students to understand basic principles and analysis tools of ArcMAP. Please allow adequate time for these training modules and submit your questions / results to slack. UCSD students and faculty have full access to ESRI training modules.
 Getting Started with GIS and ArcMAP (Allow 4-6 hours for both courses)
@@ -212,7 +212,7 @@ US Census Tiger Shapefiles - https://www.census.gov/geographies/mapping-files/ti
 US Census American Fact Finder - https://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml
 NYC Open Data Portal - https://opendata.cityofnewyork.us/
 
-< Learning Outcomes >
+# < Learning Outcomes >
 
 Employ modes of architectural representation and other discipline-specific vocabulary and analytic systems
 o	From a selection of drawings, physical and digital models, written statements and oral presentations students will demonstrate competency in architectural representation
