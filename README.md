@@ -6,9 +6,9 @@ Email: spolat@sandiego.edu
 Schedule: Thursdays, 5:30pm-8:20pm
 Classroom: Camino Hall P5
 Office Hours: Thursdays 4:00-5:20pm (by appointment)
-< What >
+# < What >
 This course will investigate urban data & spatial relationships and how they affect multiple subject areas, from the way how cities shape to how their inhabitants behave. Our cities are functioning mechanisms with a series of systems. The objective of the course is to identify and deep-dive into these systems, use “open-data” platform and gather data to understand the realm of “urban”. How does “food deserts” form in urban areas, why can’t we build more “affordable housing”, can we predict and track “gentrification”? By using GIS tools and software, students will develop mapping projects and learn to gather, analyze and visualize data on existing relations between the social and spatial.
-< Why >
+# < Why >
 Mapping brings together the Urban and the Architectural scales through a series of data abstractions and sets of rules. Students are asked to focus on developing a visual language to discuss, collect, measure and quantify city behaviors/patterns using Geographic Information Systems (GIS) as their main tool. They will respond to the literal and symbolic notion of “Motus” in the city, and create mappings, diagrams and data visualizations. 
 The class will discuss & highlight 
 •	Importance of “Open-Data” Platforms and “Why we need them?”
@@ -20,7 +20,7 @@ The class will discuss & highlight
                                 o	Edit / Clean / Clip
                                 o	Analyze / Manipulate 
                                 o	Visualize 
-< How >
+# < How >
 In 2019 alone, there were 56,654 traffic accidents recorded in LA. In 2018 a total of 1,680,060,402 metrocard swipes were recorded at NYC Subway. The parking meter Id# E-1515 at E Street and 16th Street Intersection at San Diego collected $450 on 6/3/2019 achieving highest daily transaction in 2019. These are just facts, numbers let alone do only speak to a limited audience. The class will investigate the ways which tabular and numeric data about people, behavior and urban infrastructure can be used to tell stories and construct a framework for design.  
 Week 1: 	Introduction	(Jan 30)
 		Introduction & Course Overview
